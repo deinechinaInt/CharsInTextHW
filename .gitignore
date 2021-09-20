@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/CharsInTextHW/.vs/CharsInTextHW/v16
+/CharsInTextHW/CharsInTextHW/bin/Debug
+/CharsInTextHW/CharsInTextHW/obj/Debug
+/CharsInTextHW/CharsInTextHW/App.config
